@@ -16,6 +16,8 @@ Design Sales database
 
 Step 2:
 Use Datastream to connect PostgreSQL to BigQuery to replicate data
+https://www.cloudskillsboost.google/focuses/53925?parent=catalog#:~:text=Datastream%20for%20BigQuery%20features%20seamless,Google%20Cloud's%20serverless%20data%20warehouse.
+
 
 Step 3:
 Connect BigQuery tables to dbt
